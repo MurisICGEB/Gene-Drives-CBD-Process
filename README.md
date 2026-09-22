@@ -1585,7 +1585,7 @@ html&gt;body{padding:0}&lt;/style&gt;
 
 &lt;div id=&quot;gd-swimlane&quot;&gt;
   &lt;h2&gt;Gene drives in the CBD and Cartagena Protocol processes&lt;/h2&gt;
-  &lt;div class=&quot;tl-intro&quot;&gt;Document cards replace abstract stage markers. Select a card to reveal its incoming and outgoing links and the corresponding “Gene-drive relevance and correction” text from the source table.&lt;/div&gt;
+  &lt;div class=&quot;tl-intro&quot;&gt;The swimlane map represents the chronological process through which the CBD considered synthetic biology and gene drives. The map is organized chronologically and hierarchically and the cards represent official documents. Click on each card to see its content and its incoming and outgoing links at a glance.&lt;/div&gt;
   &lt;div class=&quot;nav nav-pills&quot; role=&quot;tablist&quot; aria-label=&quot;Swimlane chronology view&quot;&gt;
     &lt;button class=&quot;nav-link active&quot; id=&quot;tab-all&quot; role=&quot;tab&quot; aria-controls=&quot;panel-all&quot; aria-selected=&quot;true&quot; type=&quot;button&quot;&gt;All tracks&lt;/button&gt;
     &lt;button class=&quot;nav-link&quot; id=&quot;tab-cbd&quot; role=&quot;tab&quot; aria-controls=&quot;panel-cbd&quot; aria-selected=&quot;false&quot; type=&quot;button&quot;&gt;CBD-focused&lt;/button&gt;
